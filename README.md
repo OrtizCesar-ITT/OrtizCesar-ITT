@@ -26,7 +26,7 @@ Y este es el perfil para la materia de Ingeniería del Conocimiento
 ## Mi negocio
 Actualmente estoy tratando de formar un negocio basado en pintar miniaturas para juegos de mesa / juegos de rol  
 [Jack's Miniature Workshop](https://www.facebook.com/MiniWorkshopTJ/)  
-
+![pic](https://images.cooltext.com/5465670.png)
 Este es un ejemplo de mi trabajo  
 ![Picture](https://scontent.ftij3-1.fna.fbcdn.net/v/t1.0-0/p526x296/49658201_392751651467300_7262393044421312512_o.jpg?_nc_cat=102&_nc_sid=730e14&_nc_ohc=dTqzbyZDp_0AX9_Sgm8&_nc_ht=scontent.ftij3-1.fna&tp=6&oh=28b43107e50a28cddcbfe3ce96fd52ff&oe=5F903D55) 
 
